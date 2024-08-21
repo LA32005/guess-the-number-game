@@ -49,5 +49,7 @@ body{
    cursor: pointer;
 }
 .title{
-    writing-mode: vertical-lr;
+  position: relative;
+  left: 400px;
+  margin-bottom: 100px;
 }
